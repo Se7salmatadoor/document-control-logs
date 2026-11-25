@@ -1,5 +1,7 @@
 # Document Control Logs (Excel)
 
+![Dashboard of the six document control logs (dummy data)](images/logs-dashboard.png)
+
 One Excel workbook with six document control logs: **IR, Technical Submittal, TRF (Test Results Form), MIR, MS, Shop Drawings**. Each log tracks when an item was submitted, when a reply is due, whether it is overdue and how long it waited. A Dashboard summarises all six. Dummy example data only.
 
 Download: [Document-Control-Logs.xlsx](Document-Control-Logs.xlsx)
